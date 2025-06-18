@@ -1,0 +1,1 @@
+{"name":"Local: 1931A","url":"c:\\Users\\asus\\Desktop\\C++\\1931A.cpp","tests":[{"id":1732903319122,"input":"5\n24\n70\n3\n55\n48\n","output":"aav\nrzz\naaa\nczz\nauz\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\asus\\Desktop\\C++\\1931A.cpp","group":"local","local":true}

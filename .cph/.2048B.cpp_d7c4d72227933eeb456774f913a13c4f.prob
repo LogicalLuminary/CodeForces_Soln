@@ -1,0 +1,1 @@
+{"name":"Local: 2048B","url":"c:\\Users\\asus\\Desktop\\C++\\2048B.cpp","tests":[{"id":1734620699767,"input":"3\n4 2\n6 1\n8 3\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\asus\\Desktop\\C++\\2048B.cpp","group":"local","local":true}

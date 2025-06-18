@@ -1,0 +1,1 @@
+{"name":"Local: 2048C","url":"/media/amrit/TRAVEL/CODE/C++/2048C.cpp","tests":[{"id":1746949553238,"input":"5\n111\n1000\n10111\n11101\n1100010001101\n","output":""},{"id":1746949572330,"input":"1\n1010","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/media/amrit/TRAVEL/CODE/C++/2048C.cpp","group":"local","local":true}

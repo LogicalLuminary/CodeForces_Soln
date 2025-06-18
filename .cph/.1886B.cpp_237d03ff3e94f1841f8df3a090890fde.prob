@@ -1,0 +1,1 @@
+{"name":"Local: 1886B","url":"c:\\Users\\asus\\Desktop\\C++\\1886B.cpp","tests":[{"id":1735035385900,"input":"2\n3 3\n1 0\n-1 6\n3 3\n-1 -1\n4 3\n","output":""},{"id":1735035477098,"input":"1\n3 3 \n1 0 \n-1 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\asus\\Desktop\\C++\\1886B.cpp","group":"local","local":true}

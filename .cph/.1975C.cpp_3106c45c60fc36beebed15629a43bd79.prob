@@ -1,0 +1,1 @@
+{"name":"Local: 1975C","url":"/media/amrit/TRAVEL/CODE/C++/1975C.cpp","tests":[{"id":1747020323442,"input":"2\n2\n1 2\n5\n1 2 3 4 5\n","output":""},{"id":1747021848181,"input":"1\n4\n1 2 3 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/media/amrit/TRAVEL/CODE/C++/1975C.cpp","group":"local","local":true}

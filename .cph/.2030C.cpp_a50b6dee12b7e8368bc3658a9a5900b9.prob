@@ -1,0 +1,1 @@
+{"name":"Local: 2030C","url":"c:\\Users\\asus\\OneDrive\\Desktop\\C++\\2030C.cpp","tests":[{"id":1736675773737,"input":"5\n2\n11\n3\n010\n12\n101111111100\n10\n0110101011\n8\n01000010\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\asus\\OneDrive\\Desktop\\C++\\2030C.cpp","group":"local","local":true}

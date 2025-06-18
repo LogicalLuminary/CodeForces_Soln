@@ -1,0 +1,1 @@
+{"name":"Local: 2111D","url":"c:\\Users\\asus\\OneDrive\\Desktop\\CODE\\C++\\2111D.cpp","tests":[{"id":1748966843736,"input":"3\n2 4\n479 290 478 293\n1 1\n31415\n6 10\n479 385 290 293 384 383 297 478 291 382\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\asus\\OneDrive\\Desktop\\CODE\\C++\\2111D.cpp","group":"local","local":true}

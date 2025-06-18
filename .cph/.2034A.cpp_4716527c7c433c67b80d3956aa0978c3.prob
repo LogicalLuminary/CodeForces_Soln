@@ -1,0 +1,1 @@
+{"name":"Local: 2034A","url":"c:\\Users\\asus\\Desktop\\C++\\2034A.cpp","tests":[{"id":1732980967898,"input":"2\n4 6\n472 896\n","output":"12\n52864"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\asus\\Desktop\\C++\\2034A.cpp","group":"local","local":true}

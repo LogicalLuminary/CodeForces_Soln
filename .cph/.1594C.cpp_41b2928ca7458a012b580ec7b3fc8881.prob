@@ -1,0 +1,1 @@
+{"name":"Local: 1594C","url":"c:\\Users\\asus\\Desktop\\C++\\1594C.cpp","tests":[{"id":1734260585206,"input":"3\n4 a\naaaa\n4 a\nbaaa\n4 b\nbzyx\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\asus\\Desktop\\C++\\1594C.cpp","group":"local","local":true}

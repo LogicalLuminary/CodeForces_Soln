@@ -1,0 +1,1 @@
+{"name":"Local: cops2A","url":"c:\\Users\\asus\\Desktop\\C++\\cops2A.cpp","tests":[{"id":1734770356143,"input":"5\n2 3\n10 10\n2 4\n7 4\n9 3\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\asus\\Desktop\\C++\\cops2A.cpp","group":"local","local":true}

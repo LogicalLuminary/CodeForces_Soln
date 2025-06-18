@@ -1,0 +1,1 @@
+{"name":"Local: 1877C","url":"c:\\Users\\asus\\Desktop\\C++\\1877C.cpp","tests":[{"id":1735202529090,"input":"4\n4 6 3\n2 0 1\n265 265 265\n3 10 2\n","output":""},{"id":1735202669298,"input":"1\n5 03 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\asus\\Desktop\\C++\\1877C.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 1975C","url":"c:\\Users\\asus\\Desktop\\C++\\1975C.cpp","tests":[{"id":1733842124019,"input":"2\n2\n1 2\n5\n1 2 3 4 5\n","output":""},{"id":1733843028797,"input":"1\n5\n2 1 1 2 2   ","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\asus\\Desktop\\C++\\1975C.cpp","group":"local","local":true}

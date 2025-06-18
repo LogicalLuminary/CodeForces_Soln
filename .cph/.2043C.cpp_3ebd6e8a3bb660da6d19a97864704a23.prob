@@ -1,0 +1,1 @@
+{"name":"Local: 2043C","url":"c:\\Users\\asus\\Desktop\\C++\\2043C.cpp","tests":[{"id":1735057937141,"input":"5\n5\n1 -1 10 1 1\n5\n-1 -1 -1 -1 -1\n2\n-1 2\n2\n7 1\n3\n1 4 -1\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\asus\\Desktop\\C++\\2043C.cpp","group":"local","local":true}

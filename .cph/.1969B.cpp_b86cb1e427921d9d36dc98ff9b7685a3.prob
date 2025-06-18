@@ -1,0 +1,1 @@
+{"name":"Local: 1969B","url":"c:\\Users\\asus\\Desktop\\C++\\1969B.cpp","tests":[{"id":1734091829252,"input":"1\n00000","output":"0"},{"id":1734092680855,"input":"5\n10\n0000\n11000\n101011\n01101001\n","output":"2\n0\n9\n5\n11\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\asus\\Desktop\\C++\\1969B.cpp","group":"local","local":true}
